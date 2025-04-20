@@ -8,7 +8,7 @@ type Footer = {
 
 const Footer = ({ ...props }: Footer) => {
 	const DIV = 'div';
-	const COPY_RIGHT_LABEL = 'Copy righted from 2024';
+	const COPY_RIGHT_LABEL = `Copy righted from ${new Date().getFullYear()}`;
 
 	return (
 		<StyledFooterContainer
