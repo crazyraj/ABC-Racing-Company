@@ -1,5 +1,6 @@
 # ABC-Racing-Company
-Micro Front End (MFE) architecture implementation.
+Micro Front End (MFE) architecture implementation
+-------------------------------------------------
 
     React Projects:
       -  Root MFE
@@ -9,12 +10,15 @@ Micro Front End (MFE) architecture implementation.
       -  Design System MFE
       
 Node JS with Graphiql Interface Project
-   -   UI configuration service with GraphiQL interface
+---------------------------------------
+   - UI configuration service with GraphiQL interface
 
-Pre-Requisite 
-  – Node JS version 16+
+Pre-Requisite
+-------------
+    -  Node JS version 16+
 
 Steps to setup all the above projects
+-------------------------------------
   1.	Go to the Project location in command prompt
   2.	Run npm install command
   3.	Run npm start command
