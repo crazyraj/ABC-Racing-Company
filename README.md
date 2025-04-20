@@ -1,6 +1,5 @@
 # ABC-Racing-Company
-Project Setup ABC-Racing-Company:
-   I have implemented the below projects as part of Front-end MFE architecture design implementation.
+Micro Front End (MFE) architecture implementation.
 
     React Projects:
       -  Root MFE
@@ -8,9 +7,9 @@ Project Setup ABC-Racing-Company:
       -  Content MFE
       -  Header MFE
       -  Design System MFE
-
-  Node JS with Graphiql Interface Project
-    6.	UI configuration service with GraphiQL interface
+      
+Node JS with Graphiql Interface Project
+   -   UI configuration service with GraphiQL interface
 
 Pre-Requisite 
   – Node JS version 16+
