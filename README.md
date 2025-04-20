@@ -1,13 +1,13 @@
 # ABC-Racing-Company
-Project Setup ABC-Racing-Company
-  -I have implemented the below projects as part of Front-end MFE architecture design implementation.
+Project Setup ABC-Racing-Company:
+   I have implemented the below projects as part of Front-end MFE architecture design implementation.
 
     React Projects:
-    1.	Root MFE
-    2.	Header MFE
-    3.	Content MFE
-    4.	Header MFE
-    5.	Design System MFE
+      -  Root MFE
+      -  Header MFE
+      -  Content MFE
+      -  Header MFE
+      -  Design System MFE
 
   Node JS with Graphiql Interface Project
     6.	UI configuration service with GraphiQL interface
